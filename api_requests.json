@@ -1,0 +1,79 @@
+[
+  {
+    "timestamp": "2026-04-08T12:47:14.200826",
+    "endpoint": "/chat",
+    "model": "llama-3.3-70b-versatile",
+    "prompt_preview": "Hello! What can you do?",
+    "response_preview": "I can be used in a variety of ways, from helping you plan a vacation to creating",
+    "latency_ms": 368.08,
+    "tokens": 95,
+    "api_key_prefix": "my-super...",
+    "status_code": 200
+  },
+  {
+    "timestamp": "2026-04-08T12:47:39.260897",
+    "endpoint": "/chat",
+    "model": "llama-3.3-70b-versatile",
+    "prompt_preview": "Hello! What can you do?",
+    "response_preview": "I can be used in a variety of ways, from helping you plan a vacation to creating",
+    "latency_ms": 289.34,
+    "tokens": 95,
+    "api_key_prefix": "my-super...",
+    "status_code": 200
+  },
+  {
+    "timestamp": "2026-04-08T12:48:15.436849",
+    "endpoint": "/complete",
+    "model": "llama-3.3-70b-versatile",
+    "prompt_preview": "test",
+    "response_preview": "It looks like you're just testing. Is there something I can help you with or wou",
+    "latency_ms": 564.51,
+    "tokens": 62,
+    "api_key_prefix": "my-super...",
+    "status_code": 200
+  },
+  {
+    "timestamp": "2026-04-08T12:49:35.536916",
+    "endpoint": "/complete",
+    "model": "llama-3.1-8b-instant",
+    "prompt_preview": "What is machine learning? Answer in 2 sentences.",
+    "response_preview": "Machine learning is a subset of artificial intelligence that involves training a",
+    "latency_ms": 652.98,
+    "tokens": 115,
+    "api_key_prefix": "my-super...",
+    "status_code": 200
+  },
+  {
+    "timestamp": "2026-04-08T12:49:37.932497",
+    "endpoint": "/chat",
+    "model": "llama-3.3-70b-versatile",
+    "prompt_preview": "Hello! What can you do?",
+    "response_preview": "I can be used in a variety of ways, from helping you plan a vacation to creating",
+    "latency_ms": 350.0,
+    "tokens": 95,
+    "api_key_prefix": "my-super...",
+    "status_code": 200
+  },
+  {
+    "timestamp": "2026-04-08T12:50:52.704436",
+    "endpoint": "/complete",
+    "model": "llama-3.1-8b-instant",
+    "prompt_preview": "What is machine learning? Answer in 2 sentences.",
+    "response_preview": "Machine learning is a subset of artificial intelligence (AI) that involves train",
+    "latency_ms": 361.66,
+    "tokens": 123,
+    "api_key_prefix": "my-super...",
+    "status_code": 200
+  },
+  {
+    "timestamp": "2026-04-08T12:50:54.942795",
+    "endpoint": "/chat",
+    "model": "llama-3.3-70b-versatile",
+    "prompt_preview": "Hello! What can you do?",
+    "response_preview": "I can be used in a variety of ways, from helping you plan a vacation to creating",
+    "latency_ms": 198.67,
+    "tokens": 95,
+    "api_key_prefix": "my-super...",
+    "status_code": 200
+  }
+]
